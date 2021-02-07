@@ -1,8 +1,3 @@
-#Author: Chris Greening
-#Date: 7/15/19
-#Purpose: Another crack at the double pendulum to convert it to OOP
-#to support multiple pendula
-
 import numpy as np
 import pandas as pd
 from pandas import Series, DataFrame
